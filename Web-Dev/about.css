@@ -1,0 +1,19 @@
+.grid_container{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-auto-rows: minmax(350px, auto);
+    row-gap: 50px;
+}
+
+.grid-item{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.grid-item-0, .grid-item-1, .grid-item-3, .grid-item-4{
+    grid-column: span 1;
+}
+
+.grid-item-2{
+    grid-column: span 2;
+}

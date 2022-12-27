@@ -240,5 +240,13 @@ footer ul li{
 footer p{
     font-size: 15px;
     font-family: verdana;
-    line-height: 70px;
+}
+
+.footer-section{
+    line-height: 150px;
+}
+
+.footer-section a{
+    text-decoration: none;
+    text-transform: capitalize;
 }

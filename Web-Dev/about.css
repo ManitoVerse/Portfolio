@@ -10,10 +10,10 @@
     text-align: center;
 }
 
-.grid-item-0, .grid-item-1, .grid-item-3, .grid-item-4{
+.grid-item-1, .grid-item-2, .grid-item-4, .grid-item-5{
     grid-column: span 1;
 }
 
-.grid-item-2{
+.grid-item-3{
     grid-column: span 2;
 }

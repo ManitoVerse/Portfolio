@@ -1,0 +1,38 @@
+/* workout routine */
+
+.table-workout-program{
+    border: 3px solid black;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.table-workout-program thead th{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    background-color: yellow;
+    border: solid 1px black;
+}
+
+.table-workout-program td{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+/* white Space */
+
+/* .whitespace{
+    width: 100%;
+    height: 75px;
+    background-color: transparent;
+} */
+
+
+/* Eating Routine */

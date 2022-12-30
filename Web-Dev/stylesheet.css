@@ -215,7 +215,7 @@
 
 footer{
     width: 1200px;
-    height: 150px;
+    height: fit-content;
     background-color: whitesmoke;
     float: left;
     margin-top: 20px;
@@ -225,7 +225,7 @@ footer{
 footer ul li{
     list-style: none;
     display: inline;
-    padding: 35px;
+    padding: 15px;
     font-size: 20px;
     
 }

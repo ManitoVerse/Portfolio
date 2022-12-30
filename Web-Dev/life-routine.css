@@ -1,0 +1,72 @@
+/* workout routine */
+h1, h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 15px;
+}
+
+.table-workout-program{
+    border: 3px solid black;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.table-workout-program thead th{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    background-color: yellow;
+    border: solid 1px black;
+}
+
+.table-workout-program td{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+/* Eating Routine */
+
+
+
+/* Goals */
+.goals{
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+    background-color: transparent;
+}
+
+.goals ol{
+    padding: 15px;
+    list-style-position: inside;
+}
+
+.goals ol li{
+    padding: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+/* Before and After */
+.before-after{
+    width: 100%;
+    height: fit-content;
+}
+
+.before-after th{
+    border: solid 1px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    background-color: gray;
+    color: white;
+}

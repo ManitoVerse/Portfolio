@@ -10,3 +10,6 @@ All dates will be in (mm/dd/yyyy) from now on
 
 12/29/2022 - I decided to add another page to the website called "Life Routine" where I have a basically schedule, workout routine and eating routine.
 I created this using HTML Tables. At the moment, the routines are not added in the website but once they are, I will update here as well.
+
+
+1/1/2023 - Under the page Portfolio, I added a board of different portfolio types for the end user to experience my experience :D! I finished the layout for Life Routine and all that is left there is adding in the information within the sections.

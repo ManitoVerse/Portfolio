@@ -15,7 +15,9 @@
     text-align: center;
     padding: 50px;
     height: 300px;
-    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .grid-item-1, .grid-item-3, .grid-item-5{
@@ -29,4 +31,32 @@
     box-shadow: 5px 0px 5px 5px rgb(61, 56, 56);
     background-color: bisque;
     border-radius: 50%;
+}
+
+.grid-item-1{
+    background-image: url(https://d1dmo9iwh0r4qt.cloudfront.net/~/media/ai/main/images/publications/blog/onlinephotonov/photographyphoto.ashx?modified=20181123034155&la=en&hash=061F51B0825AEC249CED44DB5E32432D3FEA05C2);
+    color: transparent;
+    font-size: 20px;
+}
+
+.grid-item-1:hover{
+    background-color: white;
+    color: black;
+    line-height: 200px;
+    transition: 2.5s;
+    background-image: none;
+}
+
+.grid-item-2{
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--gps5oVPP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5ct9nhbw6gdpb8dh0yy1.png);
+    color: transparent;
+    font-size: 30px;
+}
+
+.grid-item-2:hover{
+    background-color: white;
+    color: black;
+    line-height: 200px;
+    background-image: none;
+    transition: 1.5s;
 }
